@@ -24,7 +24,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Lógica-Algoritmos-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Lógica" />
+  <img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Lógica" />
   <img src="https://img.shields.io/badge/Excel-Avançado-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
