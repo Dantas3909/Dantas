@@ -34,10 +34,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Dantas3909&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantas3909&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dantas3909&theme=tokyonight" alt="Ofensiva de Commits" />
